@@ -1,5 +1,5 @@
 _repo: Nimensa-pilannut-kaupunki_53301
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The man that corrupted Hadleyburg. Finnish
 contributor:
   translator:
@@ -11,6 +11,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53301#Nimensa-pilannut-kaupunki
 gutenberg_issued: '2016-10-17'
 gutenberg_type: Text
 identifiers:
