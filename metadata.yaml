@@ -1,0 +1,40 @@
+_repo: Nimensa-pilannut-kaupunki_53301
+_version: 0.0.1
+alternative_title: The man that corrupted Hadleyburg. Finnish
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hameen-Anttila, Vaino
+    - Hämeen-Anttila, V.
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2016-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53301'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Humorous stories, American'
+- GITenberg
+title: Nimensä pilannut kaupunki
+url: http://www.gutenberg.org/ebooks/53301
